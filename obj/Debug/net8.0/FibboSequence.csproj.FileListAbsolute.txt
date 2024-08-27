@@ -1,0 +1,15 @@
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.AssemblyInfoInputs.cache
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.AssemblyInfo.cs
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.csproj.CoreCompileInputs.cache
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.sourcelink.json
+C:\Users\snipe\Documents\dev\FibboSequence\bin\Debug\net8.0\FibboSequence.exe
+C:\Users\snipe\Documents\dev\FibboSequence\bin\Debug\net8.0\FibboSequence.deps.json
+C:\Users\snipe\Documents\dev\FibboSequence\bin\Debug\net8.0\FibboSequence.runtimeconfig.json
+C:\Users\snipe\Documents\dev\FibboSequence\bin\Debug\net8.0\FibboSequence.dll
+C:\Users\snipe\Documents\dev\FibboSequence\bin\Debug\net8.0\FibboSequence.pdb
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.dll
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\refint\FibboSequence.dll
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.pdb
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\FibboSequence.genruntimeconfig.cache
+C:\Users\snipe\Documents\dev\FibboSequence\obj\Debug\net8.0\ref\FibboSequence.dll
