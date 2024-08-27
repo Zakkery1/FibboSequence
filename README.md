@@ -11,4 +11,4 @@ Looping through the Fibonacci Sequence would just mean iterating through until a
 Recursion would be a function or method calling itself until a condition is met.
 
 # The Big O Notation for this algorithm and how you arrive at that conclusion
-using the recursion model of the fibinacci sequence would be O(1) because it has a fixed number of recursive calls.
+using the recursion model of the fibinacci sequence would be O(n) because it has a fixed number of recursive calls.
